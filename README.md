@@ -10,7 +10,7 @@ O Portal foi criado durante a seção "Projeto: Portal de Notícias", e foi um �
 
 
 
--------------------------------------------------------------+= Imagens do Portal de Notícias:  =+-------------------------------------------------------------
+-------------------------+= Imagens do Portal de Notícias:  =+-------------------------
 
 Seção 'Featured'
 <img width="1500" height="751" alt="image" src="https://github.com/user-attachments/assets/6aaa17b9-f1d3-4cc0-994a-14604e3824ee" />
@@ -23,4 +23,4 @@ Seção 'Weekly'
 Seção 'Ai', 'Ads' & 'More':
 <img width="1500" height="950" alt="image" src="https://github.com/user-attachments/assets/8db5a02c-cb7c-47c9-9448-d7a122846a90" />
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
