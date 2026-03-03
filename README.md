@@ -1,4 +1,4 @@
-Projeto de Portal de Notícias, criado durante o módulo de Layouts avançados com CSS da formação Fullstack da Rocketseat.
+<h1 style="align-center">Projeto de Portal de Notícias, criado durante o módulo de Layouts avançados com CSS da formação Fullstack da Rocketseat.</h1>
 
 O Portal foi criado durante a seção "Projeto: Portal de Notícias", e foi um ótimo treino focado na tecnologia de Grid em CSS. O site possui aplicações de diversos tipos de conceito de front-end, como:
   - Estruturação do projeto com diretórios por categoria (assets, icons, styles, etc.);
