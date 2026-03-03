@@ -13,7 +13,7 @@ O site possui aplicação de diversos conceitos de front-end, como:
   - `Diversos stylesheets (CSS)`, conectados por um `index.css`;
   - Utilização de `tags semânticas`, de maneira apropriada;
   - Abordagem `Utility First`;
-  - `Variáveis de estilo` (text-color, bg-color, font-family, etc...);
+  - `Variáveis de estilo` (text-color, bg-color, font-family, etc.);
   - Tamanhos `não estáticos` para melhor `responsividade`.
 
 <h2 align="center"> <br><br> Imagens do Portal de Notícias: </h2>
